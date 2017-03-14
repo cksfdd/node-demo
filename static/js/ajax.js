@@ -1,7 +1,3 @@
-/**
- *  Author:strive
- *  Date: 2016/1/13
- */
 function json2url(json){
     json.t=Math.random();
 

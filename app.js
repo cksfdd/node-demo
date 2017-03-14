@@ -1,6 +1,3 @@
-/**
- * Created by strive-智能社 on 2016/9/25.
- */
 const express=require('express'),
     bodyParser=require('body-parser'),
     multerLib=require('multer'),
